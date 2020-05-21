@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello capgemini!" );
         System.out.println( "Hello world!" );
+          System.out.println( "Hello to git!" );
     }
 }
