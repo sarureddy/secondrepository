@@ -13,3 +13,10 @@ public class App
           System.out.println( "Hello to git!" );
     }
 }
+
+@Test
+pulbic void test()
+{
+    System.out.println( "Hello to childbranch!" );
+    
+}
