@@ -22,8 +22,14 @@ pulbic void test()
 }
 
 @Test
+
+pulbic void test()
+{
+    System.out.println( "Hello to childbranch1!" );
+
 pulbic void test1()
 {
     System.out.println( "changes in  masterbrach!" );
+
     
 }
