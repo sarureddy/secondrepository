@@ -1,2 +1,6 @@
 Hi this is git demo
-changes in remote txt file 
+changes in remote txt file
+
+changes in remote txt files 
+
+changes in local file and pushing to remote
